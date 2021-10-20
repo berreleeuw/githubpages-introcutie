@@ -1,0 +1,11 @@
+h1 , h2, h3{font-family:"arial";}
+h1{font-size: 1.8em;}
+h2{font-size: 1.5em;}
+h3{font-size: 1.4em;}
+p{
+  font-family: "Times New Roman";
+  font-size: 1.2em;
+}
+.a1{color:red;}
+.a2{color:green;}
+.a3{color:blue;}
