@@ -1,0 +1,37 @@
+body{
+  font-family: Verdana;
+  font-size: 1.1em;
+  background-color:#C0C0C0;
+  color:#000080;
+}
+
+h1{
+  font-variant: all-small-caps;
+  background-color:red;
+}
+a:hover{
+  border: 15px solid green;
+}
+
+.stippelrand{
+  border: 1px dotted black;
+}
+li{
+  list-style-type: none;
+}
+
+li.checked:before {
+  content: '';
+
+}
+
+li:before {
+  content: '☑';
+
+}
+
+
+
+
+
+
