@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -28,6 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/css3/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -45,7 +47,7 @@
       <updated>1635895032805</updated>
       <workItem from="1635895034687" duration="88000" />
       <workItem from="1636122812716" duration="801000" />
-      <workItem from="1636530745438" duration="3095000" />
+      <workItem from="1636530745438" duration="5218000" />
     </task>
     <servers />
   </component>
