@@ -29,7 +29,7 @@ table tbody td {
 
 table tbody .alt td {
     background: #EBEBEB;
-    color: #7D7D7D;
+    color: black;
 }
 
  table tbody td:first-child {
