@@ -36,5 +36,10 @@ article header
 article
 {
     background-color: #EBEBEB;
-    padding-top:3px;
+    border:2px solid white;
+}
+
+body section footer:not(article footer)
+{
+    margin-bottom:20px;
 }
