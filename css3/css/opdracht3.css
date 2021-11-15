@@ -1,0 +1,43 @@
+table {
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+}
+
+table td, table th {
+    padding: 3px 10px;
+}
+
+table thead th {
+    background-color: #8C8C8C;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: bold;
+    border-left: 1px solid #A3A3A3;
+}
+
+table thead th:first-child {
+    border: none;
+}
+
+table tbody td {
+    color: black;
+    border-left: 2px solid #DBDBDB;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+table tbody .alt td {
+    background: #EBEBEB;
+    color: black;
+}
+
+table tbody td:first-child {
+    border-left: none;
+}
+
+table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.onbekend {background‐color:red;}
