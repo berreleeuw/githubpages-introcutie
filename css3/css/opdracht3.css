@@ -4,8 +4,8 @@ table {
     width: 100%;
 }
 
-.onzeker{
-    background-color:red !important;
+table tbody td.onzeker{
+    background: red !important;
 }
 
 table td, table th {
