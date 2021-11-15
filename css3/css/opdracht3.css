@@ -4,6 +4,10 @@ table {
     width: 100%;
 }
 
+.onzeker{
+    background-color:red !important;
+}
+
 table td, table th {
     padding: 3px 10px;
 }
@@ -40,4 +44,3 @@ table tbody tr:last-child td {
     border-bottom: none;
 }
 
-.onzeker {background‐color:red !important;}
