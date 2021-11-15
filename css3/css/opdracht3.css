@@ -40,4 +40,4 @@ table tbody tr:last-child td {
     border-bottom: none;
 }
 
-.onbekend {background‐color:red;}
+.onzeker {background‐color:red !important;}
