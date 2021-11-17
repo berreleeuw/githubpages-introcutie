@@ -1,0 +1,42 @@
+body{
+    width:95%;
+    margin:auto;
+    font-size: 1.2em;
+    font-family: Verdana, Helvetica, Arial;
+}
+
+h1,h2 {
+    color: #007e7e;
+}
+
+h1{
+    font-size: 150%;
+}
+
+h2{
+   font-size: 130%;
+}
+
+body > article > h1{
+    color: lightseagreen;
+}
+
+body > article > h2{
+    color: #105275;
+}
+
+footer{
+    font-size:50%
+}
+
+body > article > p >a:hover{
+    background: saddlebrown ;
+}
+
+body > article {
+    padding: 50px;
+}
+
+body > article{
+    text-align: center;
+}
