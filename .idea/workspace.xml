@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -37,6 +37,9 @@
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css3\img" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\html5\img" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css4\img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -56,7 +59,8 @@
       <workItem from="1636906535458" duration="601000" />
       <workItem from="1636919228386" duration="138000" />
       <workItem from="1637002972518" duration="1369000" />
-      <workItem from="1637009347530" duration="1031000" />
+      <workItem from="1637009347530" duration="1274000" />
+      <workItem from="1637136097376" duration="3674000" />
     </task>
     <servers />
   </component>

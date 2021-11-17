@@ -1,10 +1,12 @@
 .vrij
 {
     background-color: rgb(250,120,120);
+    color: #EF233C;
 }
 .andereMaand
 {
-    background-color: grey !important;
+    background-color: lightgrey !important;
+    color: darkgray;
 }
 tbody tr :first-child:not(a), tbody tr :last-child:not(a) {
     background-color: rgb(255, 220, 220);
@@ -18,3 +20,19 @@ thead td{
     background-color:rgb(35,37,70);
     color:rgb(200,190,240);
 }
+
+table, thead tr td{
+    border: 1px dotted dodgerblue;
+    border-collapse: collapse;
+}
+
+table, td {
+
+    border: 1px dotted;
+    border-collapse: collapse;
+}
+
+ table {
+     border: 3px solid black;
+ }
+
