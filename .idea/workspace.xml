@@ -18,6 +18,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/css4/opdracht5.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/navbar.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/css4/opdracht1.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/css4/css/cocktail.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/css4/opdracht2.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/css4/loungestart.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/css4/opdracht3.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/css4/loremIpsum.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/css4/css/lorem.css" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="20Npj1B0X60cAJdBV4YLrySUx6a" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -66,7 +78,7 @@
       <workItem from="1637136097376" duration="3674000" />
       <workItem from="1637140563331" duration="1710000" />
       <workItem from="1637244976761" duration="2496000" />
-      <workItem from="1637407984717" duration="4083000" />
+      <workItem from="1637407984717" duration="5214000" />
     </task>
     <servers />
   </component>
