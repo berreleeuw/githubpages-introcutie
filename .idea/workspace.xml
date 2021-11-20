@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -28,12 +28,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css4/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css4\css" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css4" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css3\img" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\html5\img" />
@@ -64,6 +65,8 @@
       <workItem from="1637009347530" duration="1274000" />
       <workItem from="1637136097376" duration="3674000" />
       <workItem from="1637140563331" duration="1710000" />
+      <workItem from="1637244976761" duration="2496000" />
+      <workItem from="1637407984717" duration="1247000" />
     </task>
     <servers />
   </component>
