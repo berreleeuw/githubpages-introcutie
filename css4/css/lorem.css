@@ -1,13 +1,24 @@
-div{
-    border: 1px solid black;
+section.container{
+    border: 10px solid black;
+
 }
 
-section
+section.first
 {
     border: 1px solid black;
     padding: 10px;
     float:left;
-    width:50%;
+
+
+
+}
+section.second
+{
+    border: 1px solid black;
+    padding: 10px;
+    float:left;
+
+
 
 
 }
