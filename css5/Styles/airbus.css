@@ -1,103 +1,104 @@
-body{
-    width:960px;
-    margin: auto;
+body {
+    margin: 0 auto;
+    padding: 0;
+    width: 960px;
+    background: #E6E6E6 url('../Images/pagebackground.png') repeat-y center top;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("../Images/pagebackground.png");
-    background-position: center;
+    text-align: center;
 }
 .top{
-    height:200px;
+    position: relative;
+    height: 200px;
     background-image: url("../Images/bgsky3.jpg");
-    color:darkblue;
-    margin-right: 90px;
 }
-.top p{
-    text-align: center;
 
+.airplaneH{
+    position: absolute;
+    z-index: 1;
+    right: 90px;
+    bottom: 60px;
+    background-image: url("../Images/tekklein.png");
 }
-.top img{
-    right: 60px;
-    bottom: 150px;
-    float: right;
-    position: center;
-}
-article.top p:first-child{
+.top p:nth-of-type(1){
     font-size: 300%;
+    position: center;
     font-weight: bold;
-    font-style:italic;
+    font-style: italic;
 }
-article.top p:nth-child(2){
+.top p:nth-of-type(2){
     font-size: 240%;
     font-weight: bold;
 
 }
-footer{
-    text-align: center;
-    color: black;
-    background-color: white;
-}
-article.gallery img{
-    width:180px;
-    height:180px;
-    border: 1px dashed #999999 ;
-    padding : 10px;
-    background-color: white;
-    margin-left:20px;
-    margin-top:20px;
-    margin-bottom:20px;
-}
-article.gallery{
-    background-color: #999999;
-}
-article.gallery div {
-    display: inline-block;
-}
-.news {
-    width: 250px;
-    background-color: #DDDDDD;
-    border: 1px solid #999999;
-    display: inline-block;
+
+.news{
+    box-sizing: border-box;
     float: right;
-}
-.news p{
-    color: #666666;
+    width: 250px;
+    background-color:#dddddd;
+    border: 1px solid #666666;
     font-size: 90%;
-    padding: 10px;
+    padding-left: 10px;
 }
-.news h3{
-    color: white;
-    font-size: 120%;
-    background: blue;
-    text-align: center;
-}
-.main{
-    width: 700px;
+
+.foto{
     display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 10px 10px;
+    background-color: white;
+    border: 1px dashed #999999;
 
 }
-.introduction{
-    background-color: white;
-    color:black;
-    text-align: center;
+
+.foto>img{
+    padding: 10px 0 0 10px;
 }
-.introduction span{
-    color:blue;
-    font-weight:bold;
-    font-style: italic;
+
+.main{
+    box-sizing: border-box;
+    width: 700px;
+    float: left;
 }
+.logo{
+    float: left;
+    padding: 20px 30px 20px 20px;
+
+    height: 150px;
+}
+span{
+    font-weight: bold;
+    color: blue;
+   font-style: italic;
+}
+.gallery{
+    background-color: #999999;
+}
+
 .bottom{
+    clear: both;
     background-color: #666666;
-    color: white;
-    padding-left:120px;
-    line-height: 2em;
+
+
 }
 .column{
+    padding-left: 120px;
     display: inline-block;
-    width:49%;
+    color: white;
 }
- div.bottom a:hover{
-    color:red;
+a {
+    font-family: Verdana, Geneva, sans-serif;
+    color: white;
 }
-div.bottom a{
-    color:white;!important
+.copyright{
+    text-align: center;
+}
+a:hover{
+    color: red;
+}
+div>h3{
+    background-color: blue;
+    text-align: center;
+    padding-left: 0;
+    color: white;
 }
