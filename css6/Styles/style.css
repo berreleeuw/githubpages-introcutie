@@ -1,0 +1,15 @@
+.grey
+{
+background-color: darkgrey;
+    height: 300px;
+    border-bottom: 30px solid white;
+}
+
+.dark
+{
+background-color: grey;
+    height: 300px;
+    border-right:  10px solid white;
+    border-left: 10px solid white;
+    border-bottom: 30px solid white;
+}
