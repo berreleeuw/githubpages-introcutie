@@ -51,10 +51,10 @@ h2{
     font-weight: bold;
 }
 footer{
-    position: absolute;
     text-align: center;
     width: 90%;
     font-size: 50%;
+    clear: both;
 }
 
 
