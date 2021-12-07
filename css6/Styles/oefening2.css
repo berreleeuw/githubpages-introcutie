@@ -1,11 +1,12 @@
-.light{
-    background-color: black;
+.gray{
+    background-color: darkgrey;
     height: 200px;
     margin: 5px;
     border: 5px;
+
 }
 .dark {
-    background-color: black;
+    background-color: grey;
     height: 200px;
     margin: 5px;
     border: 5px;
@@ -13,17 +14,6 @@
 
 div {
     max-width: 100%;
-}
-
-figure {
-    background: black;
-    border-radius: 5px;
-    color: red;
-    margin: 0 0 25px 0;
-    padding: 5px;
-    text-align: center;
-    display: inline-block;
-
 }
 
 @media screen and (min-width: 500px){
@@ -36,7 +26,7 @@ figure{
 
 @media screen and (min-width: 768px){
     body{
-        background-color: mediumpurple;
+        background-color: white;
     }
     figure{
         width: 40%;
@@ -47,7 +37,7 @@ figure{
 
 @media screen and (min-width: 992px){
     body{
-        background-color: lightgreen;
+        background-color: white;
     }
     figure{
         width: 20%;
