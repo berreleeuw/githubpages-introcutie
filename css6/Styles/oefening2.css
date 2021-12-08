@@ -16,14 +16,14 @@ div {
     max-width: 100%;
 }
 
-@media screen and (min-width: 500px){
-}
-figure{
-    width: 80%;
-    box-sizing: border-box;
-    margin: 5px;
-}
+@media screen and (min-width: 500px) {
 
+    figure {
+        width: 80%;
+        box-sizing: border-box;
+        margin: 5px;
+    }
+}
 @media screen and (min-width: 768px){
     body{
         background-color: white;
