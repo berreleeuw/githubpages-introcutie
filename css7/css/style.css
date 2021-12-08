@@ -6,7 +6,8 @@
     grid-template-columns: auto auto auto;
     grid-row-gap: 10px;
     grid-column-gap: 10px;
-}
+    grid-template-columns: [first] 24% [line2] auto [line3] 24%;
+    }
 
 .container .block {
     padding: 50px;
