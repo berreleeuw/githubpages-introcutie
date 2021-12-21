@@ -20,6 +20,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/css4/opdracht5.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/css8/oefening3.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/navbar.css" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/css4/opdracht1.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/css4/css/cocktail.css" root0="FORCE_HIGHLIGHTING" />
@@ -40,24 +41,24 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css6/Images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css8/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css8\css" />
+      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css8" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css6\Images" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css6\Styles" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css6" />
-      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css4\css" />
-      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css7" />
-      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css7\css" />
+      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css8\images" />
+      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css8\css" />
+      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css8" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie" />
-      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css6" />
-      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css6\Styles" />
+      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css7" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -98,6 +99,9 @@
       <workItem from="1638960194944" duration="232000" />
       <workItem from="1638964878648" duration="194000" />
       <workItem from="1639085919150" duration="1009000" />
+      <workItem from="1639227504700" duration="1251000" />
+      <workItem from="1639554697692" duration="6624000" />
+      <workItem from="1640115590702" duration="514000" />
     </task>
     <servers />
   </component>
