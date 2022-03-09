@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -42,24 +42,24 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaScript2/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaScript3/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\JavaScript3\css" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\JavaScript2\css" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\JavaScript2\scripts" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\JavaScript2" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css8\css" />
-      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\JavaScript3\scripts" />
+      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\JavaScript3\css" />
+      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\JavaScript3" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\javaScript1" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\Herhalingsoefeningen\img" />
-      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css8\images" />
-      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css8\css" />
-      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css8" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -111,7 +111,10 @@
       <workItem from="1644428845438" duration="699000" />
       <workItem from="1644998596106" duration="7222000" />
       <workItem from="1646158011238" duration="1267000" />
-      <workItem from="1646170067338" duration="15000" />
+      <workItem from="1646170067338" duration="609000" />
+      <workItem from="1646324798938" duration="32000" />
+      <workItem from="1646815307349" duration="6683000" />
+      <workItem from="1646844467535" duration="1085000" />
     </task>
     <servers />
   </component>
