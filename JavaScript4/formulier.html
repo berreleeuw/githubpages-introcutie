@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="nl" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/style.css">
+    <script type="text/javascript" charset="utf-8"
+            src="scripts/code.js"></script>
+    <title>formulier</title>
+</head>
+<body>
+<label>First Name*:</label>
+<input type="text" name="voornaam" size="30" placeholder="Your first name" required="required"><br /><label>Last Name*:</label>
+<input type="text"
+       name="achtername"
+       size="30"
+       placeholder="Your last name"
+       required="required"><br />
+<label>Running</label><input type="checkbox" name="running" value="running"><br />
+<label>Swimming</label><input type="checkbox" name="Swimming" value="Swimming"> <br />
+<label>3000 meter estaffette dom kijken</label><input type="checkbox" name="domKijken" value="domKijken">
+
+<p>What is your gender?</p>
+<input type="radio" name="male" value="M">Male<br />
+<input type="radio" name="male" vamue="F">Female
+<br />
+<label> Favorite Movie:</label><input type="text" name="FavoFilm" size="30" placeholder="bv. Ace Ventura"><br />
+<label> Favorite Quote:</label><input type="text" name="FavoQuote" size="50" ><br />
+<label> Password*:</label><input type="password" name="password" size="30"><br />
+<label> Favorite food:</label>
+<input list="eten" name="eten">
+<datalist id="eten">
+    <option value="Pizza"></option>
+    <option value="Frietjes"></option>
+    <option value="Nog eens pizza"></option>
+</datalist>
+<br />
+<input type="file" value="Bestand kiezen" name="bestand"><br />
+<label>Email adress:</label><input type="email" name="email"><br />
+<label>Favorite Site:</label><input type="url" name="site"><br />
+<label>Favorite number between 1-10:</label><input type="number" max="10" min="1" name="number"><br />
+<label>Favorite number between 11-1000</label><input type="range" min="11" max="1000" name="numberslider"><br />
+<label>When were you born?</label><input type="date" name="date"><br />
+<label>Belgium zip-code reg number*:</label><input type="text" maxlength="4" name="zip"><br />
+<label>Search for something: </label><input type="search" name="search"><br />
+<label>What is your favorite color?</label><input type="color" name="color"><br />
+<input type="submit" name="indienen" value="Submit">
+
+</body>
+</html>
