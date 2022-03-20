@@ -9,7 +9,7 @@ const setup = () => {
             aantal++;
         }
     }
-    
+
 }
 
 window.addEventListener('load', setup);
