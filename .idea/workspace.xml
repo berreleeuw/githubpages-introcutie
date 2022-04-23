@@ -10,9 +10,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -42,24 +42,24 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Desktop/#school/Testje(1)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Javascript7" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\Javascript7" />
+      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\Javascript7\memory\images" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\JavaScript3\css" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\JavaScript2\css" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\JavaScript2\scripts" />
-      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\JavaScript2" />
-      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\css8\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\Javascript7\memory\images" />
+      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\Javascript7\BeginSituatie_HitAnObject\images" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\Javascript7" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\JavaScript5" />
       <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\JavaScript3\scripts" />
-      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\JavaScript3\css" />
-      <recent name="D:\Users\beheerder\Documents\GitHub\githubpages-introcutie\JavaScript3" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -129,7 +129,8 @@
       <workItem from="1648850286184" duration="1507000" />
       <workItem from="1649158439310" duration="492000" />
       <workItem from="1650573062695" duration="5624000" />
-      <workItem from="1650632342054" duration="4608000" />
+      <workItem from="1650632342054" duration="13761000" />
+      <workItem from="1650699748926" duration="16589000" />
     </task>
     <servers />
   </component>

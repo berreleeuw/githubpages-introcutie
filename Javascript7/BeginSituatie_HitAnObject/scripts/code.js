@@ -16,12 +16,11 @@ document.getElementById("btnstart").addEventListener('click',start)
 
 const start = () => {
     interval = setInterval(moveimg,global.MOVE_DELAY);
-    gestart = true;
     document.getElementById("btnstart").remove();
 }
 
 const click = () => {
-    if (gestart = true) {
+
         let img = document.getElementById('target');
         let src = img.src.toString().substr(-12);//(want anders heeft hij het absolute pad mee, hier is enkel een stukje relevant)
         if (src === "images/0.png") {
@@ -34,9 +33,7 @@ const click = () => {
         }
         clearInterval(interval)
         interval = setInterval(moveimg, global.MOVE_DELAY)
-    }else{
-        window.alert('eerst op start drukken...')
-    }
+
 }
 
 
